@@ -22,7 +22,7 @@ body {
 
 main {
   height: 95%;
-  width: 80%;
+  width: 75%;
   display: flex;
   position: relative;
 }
@@ -35,8 +35,8 @@ main {
   flex-direction: column;
   justify-content: center;
   gap: 20px;
-  padding-left: 90px;
-  border-radius: 25px 0px 0px 25px;
+  padding-left: 60px;
+  border-radius: 20px 0px 0px 20px;
 }
 
 .left h1 {
@@ -78,7 +78,7 @@ main {
   background-color: #fce9b6;
   height: 100%;
   width: 40%;
-  border-radius: 0px 25px 25px 0px;
+  border-radius: 0px 20px 20px 0px;
 }
 
 .logo {
@@ -90,7 +90,7 @@ main {
 .pickachu {
   position: absolute;
   top: 13%;
-  right: 14.5%;
+  right: 12.5%;
 }
 
 .menu {
@@ -102,7 +102,7 @@ main {
 .ball {
   position: absolute;
   bottom: 0px;
-  left: 60px;
+  left: 25px;
 }
 
 .dots {
